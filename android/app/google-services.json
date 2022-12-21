@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184278356685",
+    "firebase_url": "https://loginsystem-81941-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "loginsystem-81941",
+    "storage_bucket": "loginsystem-81941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184278356685:android:3305e3db3026cbbb6a8f84",
+        "android_client_info": {
+          "package_name": "com.zip.login_signup_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184278356685-mlgcidse4235qafq7ndiu5iitqckppm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbo8ciELx3s9a4GIGUhNYYEmd_bFAoJow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184278356685-mlgcidse4235qafq7ndiu5iitqckppm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
